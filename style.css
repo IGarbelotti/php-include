@@ -1,0 +1,32 @@
+#container {
+    margin: auto;
+    width: 1000px;
+}
+header {
+    height: 200px;
+    background: url(tecnologia.png);
+}
+nav {
+height: 50px;
+background: white;
+}
+section { 
+    display: flex;
+    min-height: 400px;
+    background:#0d001e;
+    color: white;
+}
+article {
+    width: 750px;
+}
+aside {
+    width: 250px;
+    background: #0d001e;
+    font-size: 20px;
+}
+footer {
+    height: 50px;
+    background: #0d001e;
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
